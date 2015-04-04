@@ -1,0 +1,2 @@
+# openshift_accelerator_keyring
+OpenShift Accelerator Keyring
